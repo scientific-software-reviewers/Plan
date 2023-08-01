@@ -206,6 +206,10 @@ Exercise:
 * Which module variables and routines should be public? Add a suggestion for which variables/routines to make private to the module.
 * Have any bugs been introduced during the code refactoring?
 
+---
 
-
-
+This work was supported by the Better Scientific Software Fellowship
+Program, funded by the Exascale Computing Project (17-SC-20-SC), a
+collaborative effort of the U.S. Department of Energy (DOE) Office of
+Science and the National Nuclear Security Administration; and by the
+National Science Foundation (NSF) under Grant No. 2154495.
